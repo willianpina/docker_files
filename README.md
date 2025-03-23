@@ -1,7 +1,3 @@
-Perfeito, Willian! Aqui está o README reescrito de forma lógica, limpa e organizada, já com o link adicionado:  
-
----
-
 # 🐳 Docker Collection 🚀  
 
 Este repositório contém uma coleção organizada de **arquivos Docker** e **docker-compose** para diversas finalidades, criados para facilitar a configuração, deploy e gerenciamento de ambientes de desenvolvimento, teste e produção.  
@@ -20,13 +16,6 @@ O repositório está dividido em pastas, cada uma contendo:
 - **Arquivos docker-compose.yml** prontos para uso  
 - Instruções rápidas de instalação e configuração  
 - Scripts auxiliares (quando aplicável)  
-
-## ✅ Finalidades e Exemplos incluídos  
-- Ambientes de desenvolvimento (Python, R, PHP, etc.)  
-- Banco de dados (PostgreSQL, MySQL, MongoDB)  
-- Servidores web (NGINX, Apache)  
-- Ferramentas de análise de dados e notebooks Jupyter  
-- Contêineres personalizados para projetos específicos  
 
 ## 📁 Índice de pastas  
 
