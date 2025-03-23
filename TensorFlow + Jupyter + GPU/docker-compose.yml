@@ -1,0 +1,12 @@
+services:
+  tensorflow-gpu:
+    image: tensorflow/tensorflow:2.7.0-gpu-jupyter
+    container_name: tensorflow-gpu-pycharm
+    runtime: nvidia
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/tf
+
